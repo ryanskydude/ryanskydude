@@ -1,4 +1,4 @@
-Yo, my username here is ryanskydude, but my username on others will most likely be rezokami
+Yo, my username here is ryanskydude, but my username on others will most likely be rezokami.
 im currently learning c# and c++ so that i can pursue a career in game development on the unity and unreal engine.
 im self taught and have not completed my first game, although it is a work in progress and i have made a repository
 for it if you want to look. it is under the name "HoloGame".
