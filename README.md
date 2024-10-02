@@ -4,7 +4,7 @@ im self taught and have not completed my first game, although it is a work in pr
 for it if you want to look. it is under the name "HoloGame".
 
 if you want to contact me look towards my discord or my email:
-discord: @レゾカミ#6969
+discord: @Rezokami
 email: samuraidevr@gmail.com
 
 <!---
